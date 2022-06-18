@@ -30,6 +30,7 @@ projects:
   tags: ["professional", "python", "kubernetes", "cloud", "open source"]
 
 - name: Undergraduate Thesis
+  logo: /images/sections/projects/usp2.png
   # role: Team Lead
   timeline: "Jan 2018 - Nov 2018"
   repo: https://github.com/rfayan/TUG_Fall_Analysis

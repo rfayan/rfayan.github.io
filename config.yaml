@@ -62,7 +62,7 @@ params:
   logo:
     # main: images/terminal5.png
     # inverted: images/terminal5.png
-    favicon: images/terminal2.png
+    favicon: images/site/terminal.png
 
   darkMode:
     enable: true
