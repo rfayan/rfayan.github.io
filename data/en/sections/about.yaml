@@ -1,0 +1,66 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior Software Engineer
+# your company information
+company:
+  name: Hash
+  url: "https://www.hash.com.br/en"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am a passionate software engineer with 3.5 years of working experience. I love working with cloud native tools and bleeding edge technologies using Go and Python. I'm interested in solving real world problems in the fields of Distributed Systems, Machine Learning and Internet of Things."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "rafaelfayan@gmail.com"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/rfayan"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/rafael-fayan/"
+
+badges:
+- type: certification
+  name: "Microsoft Certified: Azure Fundamentals"
+  url: "https://www.credly.com/badges/d1fc8409-2b41-4513-af99-073b82ff0027"
+  badge: "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+
+- type: certification
+  name: "Microsoft Certified: Azure AI Fundamentals"
+  url: "https://www.credly.com/badges/6f331c3a-b936-4da0-b52d-30f01dc661d7"
+  badge: "https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
+
+- type: certification
+  name: "Microsoft Certified: Azure Data Fundamentals"
+  url: "https://www.credly.com/badges/59d94c15-3fe8-43ce-acde-1993022c4ed3"
+  badge: "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
+
+- type: certification
+  name: "Exam 774: Perform Cloud Data Science with Azure Machine Learning"
+  url: "https://www.credly.com/badges/de8cfa26-21b2-4c6b-987a-b355ec8587b0"
+  badge: "https://images.credly.com/size/340x340/images/e1a2bd6b-196b-4a54-a521-2daf0d2293f9/Exam_774-01.png"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 95
+  color: green
+- name: Leadership
+  percentage: 85
+  color: blue

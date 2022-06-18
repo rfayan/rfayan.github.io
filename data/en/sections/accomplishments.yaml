@@ -1,0 +1,93 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: "Microsoft Certified: Azure Fundamentals"
+  timeline: "Oct 2021"
+  organization:
+    name: Microsoft
+    url: https://www.microsoft.com/en-us
+  courseOverview: "Passed Exam AZ-900: Microsoft Azure AI Fundamentals, demonstrating foundational level knowledge of cloud services and how those services are provided with Microsoft Azure."
+  certificateURL: https://www.credly.com/badges/d1fc8409-2b41-4513-af99-073b82ff0027
+
+- name: "Microsoft Certified: Azure Data Fundamentals"
+  timeline: "Oct 2021"
+  organization:
+    name: Microsoft
+    url: https://www.microsoft.com/en-us
+  courseOverview: "Passed Exam DP-900: Microsoft Azure AI Fundamentals, demonstrating foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services."
+  certificateURL: https://www.credly.com/badges/59d94c15-3fe8-43ce-acde-1993022c4ed3
+
+- name: "Microsoft Certified: Azure AI Fundamentals"
+  timeline: "Sep 2021"
+  organization:
+    name: Microsoft
+    url: https://www.microsoft.com/en-us
+  courseOverview: "Passed Exam AI-900: Microsoft Azure AI Fundamentals, demonstrating foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services."
+  certificateURL: https://www.credly.com/badges/6f331c3a-b936-4da0-b52d-30f01dc661d7
+
+- name: "Extension Course: Complex Data Mining"
+  timeline: "Aug 2020 - Jan 2021"
+  organization:
+    name: State University of Campinas
+    url: https://ic.unicamp.br/en/~mdc/
+  courseOverview: "The course explores the main methods of Data Science, including Data Analysis, Information Retrieval, Data Mining, Information Visualization, treatment of big data (Big Data), in addition to the most modern techniques of Artificial Intelligence and Machine Learning (including Deep Learning)."
+  # certificateURL: "https://example.com"
+
+- name: Advanced Architecting on AWS (AWSAA)
+  timeline: "Dec 2020"
+  organization:
+    name: Fast Lane US
+    url: https://www.flane.com.pa/en/course/amazon-awsaa
+  courseOverview: "Advanced Architecting on AWS covers how to build complex solutions which incorporate data services, governance, and security on AWS. It introduces specialized AWS services, such as AWS Direct Connect and AWS Storage Gateway, and also covers best practices for building scalable, elastic, secure, and highly available applications."
+  # certificateURL: "https://example.com"
+
+- name: Big Data on AWS (BDAWS)
+  timeline: "Dec 2020"
+  organization:
+    name: Fast Lane US
+    url: https://www.flane.com.pa/en/course/amazon-bdaws
+  courseOverview: "Big Data on AWS introduces cloud-based big data solutions such as Amazon Elastic MapReduce (EMR), Amazon DynamoDB, Amazon Redshift, Amazon Kinesis and the rest of the AWS big data platform, teaching how to leverage best practices to design big data environments for security and cost-effectiveness."
+  # certificateURL: "https://example.com"
+
+
+- name: "Exam 774: Perform Cloud Data Science with Azure Machine Learning"
+  timeline: "Feb 2019"
+  organization:
+    name: Microsoft
+    url: https://www.microsoft.com/en-us
+  courseOverview: "Passed Exam 774: Perform Cloud Data Science with Azure Machine Learning, demonstrating an understanding of Azure data services, machine learning and data science processes such as filtering and transforming data sets, model estimation and model evaluation."
+  certificateURL: https://www.credly.com/badges/de8cfa26-21b2-4c6b-987a-b355ec8587b0
+
+- name: Embedded Linux
+  timeline: "May 2018"
+  organization:
+    name: Embedded Labworks
+    url: https://e-labworks.com/en/
+  courseOverview: Hands-on course on how to develop and customize embedded Linux systems. The course includes an introduction to the architecture of embedded Linux systems, how to use and configure cross-compiler toolchains and bootloaders, compile linux kernels, develop embedded applications and more.
+  # certificateURL: "https://example.com"
+
+- name: Yocto Project
+  timeline: "May 2018"
+  organization:
+    name: Embedded Labworks
+    url: https://e-labworks.com/en/
+  courseOverview: Hands-on course on how to develop and customize embedded Linux systems using OpenEmbedded / Yocto Project.
+  # certificateURL: "https://example.com"
+
+- name: Third Place - Be an Icon Competition
+  timeline: "Apr 2017"
+  organization:
+    name: Siena Idea e CeMEAI
+    url: http://www.cemeai.icmc.usp.br/noticias/itemlist/tag/Be%20an%20Icon
+  courseOverview: Third place award in a competition between groups of students at University of São Paulo for developing a smart monitoring system for public transportation using data collected through Beacon devices.
+  # certificateURL: "https://example.com"
